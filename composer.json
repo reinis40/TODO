@@ -1,0 +1,13 @@
+{
+    "name": "n1ghtcorrr/todo",
+    "description": "app for todo tasks",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Reinis Ozolins"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
